@@ -1,0 +1,26 @@
+{
+    "name": "Vui ve",
+    "symbol": "VUI",
+    "description": "Token vui ve",
+    "image": "https://www.aichain.com.vn/favicon.ico",
+    "external_url": "https://www.aichain.com.vn",
+    "seller_fee_basis_points": 500,  // Fee in basis points (i.e., 5%)
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "6ur4xEaaWMC3iKryoSpY4xfdpVDRkZVwdWfmmm4VQPVh",
+                "share": 100
+            }
+        ]
+    }
+}
